@@ -1,0 +1,41 @@
+{
+  "name": "night-owl-oled-dim-50",
+  "displayName": "Night Owl Oled Dim 50",
+  "description": "Night Owl Oled Dim 50",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Owl Oled Dim 75",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-wwl-oled-dim-75-color-theme.json"
+      },      
+      {
+        "label": "Night Owl Oled Dim 80",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-wwl-oled-dim-80-color-theme.json"
+      },
+      {
+        "label": "Night Owl Oled Dim 85",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-wwl-oled-dim-85-color-theme.json"
+      },
+      {
+        "label": "Night Owl Oled Dim 90",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-wwl-oled-dim-90-color-theme.json"
+      },
+      {
+        "label": "Night Owl Oled Dim 95",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-wwl-oled-dim-95-color-theme.json"
+      }                  
+    ]
+  }
+}
