@@ -1,8 +1,8 @@
 {
   "name": "night-owl-oled-dim",
-  "displayName": "Night Owl Oled Dim 50",
-  "description": "Night Owl Oled Dim 50",
-  "version": "0.0.1",
+  "displayName": "Night Owl Oled Dim",
+  "description": "Night Owl Oled Dim 75/80/85/90/95",
+  "version": "0.0.2",
   "publisher":"WeiyuWang",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
