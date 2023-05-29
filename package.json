@@ -1,8 +1,30 @@
 {
-  "name": "night-owl-oled-dim-50",
+  "name": "night-owl-oled-dim",
   "displayName": "Night Owl Oled Dim 50",
   "description": "Night Owl Oled Dim 50",
   "version": "0.0.1",
+  "publisher":"WeiyuWang",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wwang1110/night-owl-oled-dim"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Night Owl",
+    "Night Theme",
+    "Oled",
+    "Oled Dim"
+  ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "galleryBanner": {
+    "color": "#061526",
+    "theme": "dark"
+  },
+  "icon": "owl-icon.png",
   "engines": {
     "vscode": "^1.78.0"
   },
