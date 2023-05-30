@@ -2,8 +2,8 @@
   "name": "night-owl-oled-dim",
   "displayName": "Night Owl Oled Dim",
   "description": "Night Owl Oled Dim 75/80/85/90/95",
-  "version": "0.0.3",
-  "publisher":"WeiyuWang",
+  "version": "1.0.0",
+  "publisher": "WeiyuWang",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
@@ -34,30 +34,35 @@
   "contributes": {
     "themes": [
       {
-        "label": "Night Owl Oled Dim 75",
+        "label": "Night Owl Oled",
         "uiTheme": "vs-dark",
-        "path": "./themes/night-wwl-oled-dim-75-color-theme.json"
-      },      
-      {
-        "label": "Night Owl Oled Dim 80",
-        "uiTheme": "vs-dark",
-        "path": "./themes/night-wwl-oled-dim-80-color-theme.json"
-      },
-      {
-        "label": "Night Owl Oled Dim 85",
-        "uiTheme": "vs-dark",
-        "path": "./themes/night-wwl-oled-dim-85-color-theme.json"
-      },
-      {
-        "label": "Night Owl Oled Dim 90",
-        "uiTheme": "vs-dark",
-        "path": "./themes/night-wwl-oled-dim-90-color-theme.json"
+        "path": "./themes/night-owl-dim-100.json"
       },
       {
         "label": "Night Owl Oled Dim 95",
         "uiTheme": "vs-dark",
-        "path": "./themes/night-wwl-oled-dim-95-color-theme.json"
-      }                  
+        "path": "./themes/night-owl-dim-95.json"
+      },
+      {
+        "label": "Night Owl Oled Dim 90",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl-dim-90.json"
+      },
+      {
+        "label": "Night Owl Oled Dim 85",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl-dim-85.json"
+      },
+      {
+        "label": "Night Owl Oled Dim 80",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl-dim-80.json"
+      },
+      {
+        "label": "Night Owl Oled Dim 75",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl-dim-75.json"
+      }
     ]
   }
 }
